@@ -1,0 +1,51 @@
+{
+  "desktop_catalogue": {
+    "PROD-001 (Earrings)": {
+      "crop_shape": "427x427",
+      "unique_colors": 22888,
+      "std_deviation": 64.1,
+      "gold_pixels": 15305,
+      "ruby_pixels": 6353,
+      "placeholder_hits": 14,
+      "status": "PASS - REAL JEWELLERY VISIBLE"
+    },
+    "PROD-003 (Ruby Choker)": {
+      "crop_shape": "427x427",
+      "unique_colors": 1620,
+      "std_deviation": 32.4,
+      "gold_pixels": 1354,
+      "ruby_pixels": 429,
+      "placeholder_hits": 0,
+      "status": "FAIL - BLANK / PLACEHOLDER"
+    },
+    "PROD-004 (Long Haar)": {
+      "crop_shape": "427x427",
+      "unique_colors": 7050,
+      "std_deviation": 34.4,
+      "gold_pixels": 2743,
+      "ruby_pixels": 2218,
+      "placeholder_hits": 129,
+      "status": "PASS - REAL JEWELLERY VISIBLE"
+    }
+  },
+  "product_modal": {
+    "crop_shape": "600x700",
+    "unique_colors": 3414,
+    "std_deviation": 41.4,
+    "status": "FAIL - BLANK"
+  },
+  "search_modal": {
+    "crop_shape": "840x550",
+    "unique_colors": 12373,
+    "std_deviation": 43.6,
+    "status": "PASS - SEARCH RESULTS WITH THUMBNAILS VISIBLE"
+  },
+  "mobile_catalogue_390": {
+    "width": 390,
+    "crop_shape": "350x410",
+    "unique_colors": 1456,
+    "std_deviation": 52.1,
+    "gold_pixels": 3070,
+    "status": "FAIL"
+  }
+}

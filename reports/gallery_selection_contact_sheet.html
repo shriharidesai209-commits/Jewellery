@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KYK Jewellers (Since 1937) — Original Photograph Contact Sheet Audit</title>
+<style>
+  :root {
+    --bg: #F9F7F2;
+    --card-bg: #FFFFFF;
+    --gold: #997D3D;
+    --gold-dark: #7A6128;
+    --text-primary: #1A1815;
+    --text-secondary: #5A564F;
+    --border: rgba(153, 125, 61, 0.25);
+    --badge-avail: #1B5E20;
+    --badge-cat: #7A6128;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text-primary);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    padding: 32px 24px;
+    line-height: 1.5;
+  }
+  header {
+    max-width: 1400px;
+    margin: 0 auto 36px;
+    border-bottom: 2px solid var(--gold);
+    padding-bottom: 24px;
+  }
+  .brand-tag {
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: var(--gold-dark);
+    font-weight: 600;
+  }
+  h1 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 32px;
+    font-weight: 500;
+    color: var(--text-primary);
+    margin: 6px 0 10px;
+  }
+  .meta-summary {
+    color: var(--text-secondary);
+    font-size: 14px;
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-top: 8px;
+  }
+  .meta-stat {
+    background: rgba(153, 125, 61, 0.08);
+    padding: 6px 14px;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    font-weight: 500;
+  }
+  .section-title {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--gold-dark);
+    margin: 36px auto 16px;
+    max-width: 1400px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  }
+  .img-container {
+    position: relative;
+    width: 100%;
+    height: 240px;
+    background: #EAE6DF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  .img-container img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+  }
+  .card:hover .img-container img {
+    transform: scale(1.03);
+  }
+  .badge {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+  }
+  .badge-avail {
+    background: #E8F5E9;
+    color: var(--badge-avail);
+    border: 1px solid #A5D6A7;
+  }
+  .badge-cat {
+    background: #FFF8E1;
+    color: var(--badge-cat);
+    border: 1px solid #FFE082;
+  }
+  .details {
+    padding: 14px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    flex-grow: 1;
+  }
+  .filename {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 13px;
+    font-weight: bold;
+    color: var(--text-primary);
+    word-break: break-all;
+  }
+  .folder {
+    font-size: 11px;
+    color: var(--gold-dark);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .specs {
+    font-size: 12px;
+    color: var(--text-secondary);
+    margin-top: 4px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand-tag">Kashinathsa Y. Khatawate Jewellers (KYK Since 1937), Gadag</div>
+  <h1>Original Photograph Contact Sheet Audit</h1>
+  <p style="color: var(--text-secondary); font-size: 15px; margin-top: 4px;">
+    Systematic audit of genuine archival client photography in <code>assets/raw-jewellery/extracted/</code>.
+    Used to select approximately 20 distinct photographs for the storefront horizontal sliding gallery.
+  </p>
+  <div class="meta-summary">
+    <div class="meta-stat">Total Audited Photos: <strong>43</strong></div>
+    <div class="meta-stat">Available Archival Candidates: <strong>34</strong></div>
+    <div class="meta-stat">Existing Catalogue Pieces: <strong>9</strong></div>
+    <div class="meta-stat">Rule Compliance: <strong>100% Client Originals (Zero AI / Zero Stock)</strong></div>
+  </div>
+</header>
+
+<div class="section-title">
+  <span>✦ SECTION A: AVAILABLE ARCHIVAL CANDIDATES (34 PHOTOGRAPHS)</span>
+</div>
+<div class="grid">
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/01_Earrings_Set_1_0423/IMG_0431.JPG.jpeg" alt="IMG_0431.JPG.jpeg" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">01_Earrings_Set_1_0423</div>
+      <div class="filename">IMG_0431.JPG.jpeg</div>
+      <div class="specs">3840 &times; 2160 px &bull; 1854 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/02_Earrings_Set_2_0437/IMG_0437.JPG.jpeg" alt="IMG_0437.JPG.jpeg" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">02_Earrings_Set_2_0437</div>
+      <div class="filename">IMG_0437.JPG.jpeg</div>
+      <div class="specs">3840 &times; 2160 px &bull; 1860 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/02_Earrings_Set_2_0437/IMG_0438.JPG.jpeg" alt="IMG_0438.JPG.jpeg" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">02_Earrings_Set_2_0437</div>
+      <div class="filename">IMG_0438.JPG.jpeg</div>
+      <div class="specs">3840 &times; 2160 px &bull; 2217 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/02_Earrings_Set_2_0437/IMG_0439.JPG.jpeg" alt="IMG_0439.JPG.jpeg" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">02_Earrings_Set_2_0437</div>
+      <div class="filename">IMG_0439.JPG.jpeg</div>
+      <div class="specs">3840 &times; 2160 px &bull; 1869 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/02_Earrings_Set_2_0437/IMG_0440.JPG.jpeg" alt="IMG_0440.JPG.jpeg" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">02_Earrings_Set_2_0437</div>
+      <div class="filename">IMG_0440.JPG.jpeg</div>
+      <div class="specs">3840 &times; 2160 px &bull; 1951 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/02_Earrings_Set_2_0437/IMG_0441.JPG.jpeg" alt="IMG_0441.JPG.jpeg" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">02_Earrings_Set_2_0437</div>
+      <div class="filename">IMG_0441.JPG.jpeg</div>
+      <div class="specs">3840 &times; 2160 px &bull; 1934 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/02_Earrings_Set_2_0437/IMG_0442.JPG.jpeg" alt="IMG_0442.JPG.jpeg" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">02_Earrings_Set_2_0437</div>
+      <div class="filename">IMG_0442.JPG.jpeg</div>
+      <div class="specs">3840 &times; 2160 px &bull; 1929 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/05_Ornate_Jewellery_Closeups_0300/IMG_0300.jpg" alt="IMG_0300.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">05_Ornate_Jewellery_Closeups_0300</div>
+      <div class="filename">IMG_0300.HEIC</div>
+      <div class="specs">2236 &times; 3731 px &bull; 1784 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/05_Ornate_Jewellery_Closeups_0300/IMG_0301.jpg" alt="IMG_0301.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">05_Ornate_Jewellery_Closeups_0300</div>
+      <div class="filename">IMG_0301.HEIC</div>
+      <div class="specs">2239 &times; 4031 px &bull; 1703 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/05_Ornate_Jewellery_Closeups_0300/IMG_0302.jpg" alt="IMG_0302.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">05_Ornate_Jewellery_Closeups_0300</div>
+      <div class="filename">IMG_0302.HEIC</div>
+      <div class="specs">2777 &times; 3703 px &bull; 1963 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/05_Ornate_Jewellery_Closeups_0300/IMG_0303.jpg" alt="IMG_0303.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">05_Ornate_Jewellery_Closeups_0300</div>
+      <div class="filename">IMG_0303.HEIC</div>
+      <div class="specs">2599 &times; 3465 px &bull; 1832 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/06_Chain_or_Jewellery_on_Grey_0344/IMG_0344.jpg" alt="IMG_0344.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">06_Chain_or_Jewellery_on_Grey_0344</div>
+      <div class="filename">IMG_0344.HEIC</div>
+      <div class="specs">4284 &times; 5712 px &bull; 3207 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/06_Chain_or_Jewellery_on_Grey_0344/IMG_0345.jpg" alt="IMG_0345.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">06_Chain_or_Jewellery_on_Grey_0344</div>
+      <div class="filename">IMG_0345.HEIC</div>
+      <div class="specs">4284 &times; 5712 px &bull; 3102 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/06_Chain_or_Jewellery_on_Grey_0344/IMG_0350.jpg" alt="IMG_0350.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">06_Chain_or_Jewellery_on_Grey_0344</div>
+      <div class="filename">IMG_0350.HEIC</div>
+      <div class="specs">4284 &times; 5712 px &bull; 3616 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0034.jpg" alt="IMG_0034.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0034.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 1707 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0035.jpg" alt="IMG_0035.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0035.HEIC</div>
+      <div class="specs">2565 &times; 3847 px &bull; 1610 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0038.jpg" alt="IMG_0038.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0038.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 2096 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0039.jpg" alt="IMG_0039.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0039.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 1643 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0040.jpg" alt="IMG_0040.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0040.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 2155 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0042.jpg" alt="IMG_0042.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0042.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 1968 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0043.jpg" alt="IMG_0043.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0043.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 1837 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0044.jpg" alt="IMG_0044.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0044.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 1170 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0235.jpg" alt="IMG_0235.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0235.HEIC</div>
+      <div class="specs">2268 &times; 4032 px &bull; 1408 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0351.jpg" alt="IMG_0351.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0351.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 1369 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0352.jpg" alt="IMG_0352.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0352.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 1309 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0353.jpg" alt="IMG_0353.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0353.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 1231 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0354.jpg" alt="IMG_0354.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0354.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 1304 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0355.jpg" alt="IMG_0355.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0355.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 1519 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0360.jpg" alt="IMG_0360.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0360.HEIC</div>
+      <div class="specs">3023 &times; 2641 px &bull; 2087 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/08_Dark_or_Unclear_Review/IMG_0299.jpg" alt="IMG_0299.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">08_Dark_or_Unclear_Review</div>
+      <div class="filename">IMG_0299.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 2366 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/08_Dark_or_Unclear_Review/IMG_0329.jpg" alt="IMG_0329.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">08_Dark_or_Unclear_Review</div>
+      <div class="filename">IMG_0329.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 732 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/08_Dark_or_Unclear_Review/IMG_0444.jpg" alt="IMG_0444.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">08_Dark_or_Unclear_Review</div>
+      <div class="filename">IMG_0444.HEIC</div>
+      <div class="specs">5712 &times; 4284 px &bull; 2426 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/08_Dark_or_Unclear_Review/IMG_0588.jpg" alt="IMG_0588.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">08_Dark_or_Unclear_Review</div>
+      <div class="filename">IMG_0588.HEIC</div>
+      <div class="specs">4284 &times; 5712 px &bull; 4865 KB</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/08_Dark_or_Unclear_Review/IMG_0828.jpg" alt="IMG_0828.HEIC" loading="lazy">
+      <span class="badge badge-avail">Available</span>
+    </div>
+    <div class="details">
+      <div class="folder">08_Dark_or_Unclear_Review</div>
+      <div class="filename">IMG_0828.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 1772 KB</div>
+    </div>
+  </div>
+
+</div>
+
+<div class="section-title" style="margin-top: 48px;">
+  <span>✦ SECTION B: EXISTING CATALOGUE PIECES (9 PHOTOGRAPHS)</span>
+</div>
+<div class="grid">
+
+  <div class="card" style="opacity: 0.85;">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/01_Earrings_Set_1_0423/IMG_0423.JPG.jpeg" alt="IMG_0423.JPG.jpeg" loading="lazy">
+      <span class="badge badge-cat">Catalogue</span>
+    </div>
+    <div class="details">
+      <div class="folder">01_Earrings_Set_1_0423</div>
+      <div class="filename">IMG_0423.JPG.jpeg</div>
+      <div class="specs">3840 &times; 2160 px &bull; 1841 KB</div>
+    </div>
+  </div>
+
+  <div class="card" style="opacity: 0.85;">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/01_Earrings_Set_1_0423/IMG_0428.JPG.jpeg" alt="IMG_0428.JPG.jpeg" loading="lazy">
+      <span class="badge badge-cat">Catalogue</span>
+    </div>
+    <div class="details">
+      <div class="folder">01_Earrings_Set_1_0423</div>
+      <div class="filename">IMG_0428.JPG.jpeg</div>
+      <div class="specs">3840 &times; 2160 px &bull; 1777 KB</div>
+    </div>
+  </div>
+
+  <div class="card" style="opacity: 0.85;">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/01_Earrings_Set_1_0423/IMG_0429.JPG.jpeg" alt="IMG_0429.JPG.jpeg" loading="lazy">
+      <span class="badge badge-cat">Catalogue</span>
+    </div>
+    <div class="details">
+      <div class="folder">01_Earrings_Set_1_0423</div>
+      <div class="filename">IMG_0429.JPG.jpeg</div>
+      <div class="specs">3840 &times; 2160 px &bull; 1749 KB</div>
+    </div>
+  </div>
+
+  <div class="card" style="opacity: 0.85;">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/03_Necklace_IMG_0062/IMG_0062.JPG.jpeg" alt="IMG_0062.JPG.jpeg" loading="lazy">
+      <span class="badge badge-cat">Catalogue</span>
+    </div>
+    <div class="details">
+      <div class="folder">03_Necklace_IMG_0062</div>
+      <div class="filename">IMG_0062.JPG.jpeg</div>
+      <div class="specs">960 &times; 1280 px &bull; 213 KB</div>
+    </div>
+  </div>
+
+  <div class="card" style="opacity: 0.85;">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/04_Long_Necklace_IMG_0143/IMG_0143.PNG" alt="IMG_0143.PNG" loading="lazy">
+      <span class="badge badge-cat">Catalogue</span>
+    </div>
+    <div class="details">
+      <div class="folder">04_Long_Necklace_IMG_0143</div>
+      <div class="filename">IMG_0143.PNG</div>
+      <div class="specs">1078 &times; 1441 px &bull; 397 KB</div>
+    </div>
+  </div>
+
+  <div class="card" style="opacity: 0.85;">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0037.jpg" alt="IMG_0037.HEIC" loading="lazy">
+      <span class="badge badge-cat">Catalogue</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0037.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 2017 KB</div>
+    </div>
+  </div>
+
+  <div class="card" style="opacity: 0.85;">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/07_Fabric_Background_Reference/IMG_0041.jpg" alt="IMG_0041.HEIC" loading="lazy">
+      <span class="badge badge-cat">Catalogue</span>
+    </div>
+    <div class="details">
+      <div class="folder">07_Fabric_Background_Reference</div>
+      <div class="filename">IMG_0041.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 2143 KB</div>
+    </div>
+  </div>
+
+  <div class="card" style="opacity: 0.85;">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/08_Dark_or_Unclear_Review/IMG_0231.jpg" alt="IMG_0231.HEIC" loading="lazy">
+      <span class="badge badge-cat">Catalogue</span>
+    </div>
+    <div class="details">
+      <div class="folder">08_Dark_or_Unclear_Review</div>
+      <div class="filename">IMG_0231.HEIC</div>
+      <div class="specs">3024 &times; 4032 px &bull; 2179 KB</div>
+    </div>
+  </div>
+
+  <div class="card" style="opacity: 0.85;">
+    <div class="img-container">
+      <img src="../assets/raw-jewellery/extracted/09_Fastening_or_Extra_View/IMG_0839.JPG.jpeg" alt="IMG_0839.JPG.jpeg" loading="lazy">
+      <span class="badge badge-cat">Catalogue</span>
+    </div>
+    <div class="details">
+      <div class="folder">09_Fastening_or_Extra_View</div>
+      <div class="filename">IMG_0839.JPG.jpeg</div>
+      <div class="specs">3840 &times; 2160 px &bull; 1561 KB</div>
+    </div>
+  </div>
+
+</div>
+
+<footer style="max-width: 1400px; margin: 48px auto 0; padding-top: 24px; border-top: 1px solid var(--border); color: var(--text-secondary); font-size: 13px;">
+  Generated by Antigravity Storefront Auditor &bull; Kashinathsa Y. Khatawate Jewellers &bull; All photographs are verified client originals.
+</footer>
+
+</body>
+</html>

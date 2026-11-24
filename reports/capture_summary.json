@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "01_final_desktop_hero.png",
+    "width": 1440,
+    "height": 960,
+    "size_kb": 186.7,
+    "unique_colors": 14738,
+    "std": 55.76922550218436
+  },
+  {
+    "filename": "02_final_desktop_craftsmanship.png",
+    "width": 1440,
+    "height": 850,
+    "size_kb": 566.6,
+    "unique_colors": 138234,
+    "std": 68.56523721256363
+  },
+  {
+    "filename": "03_final_desktop_catalogue.png",
+    "width": 1440,
+    "height": 1150,
+    "size_kb": 395.3,
+    "unique_colors": 96097,
+    "std": 45.22349494108397
+  },
+  {
+    "filename": "04_final_desktop_product_modal.png",
+    "width": 1440,
+    "height": 900,
+    "size_kb": 186.0,
+    "unique_colors": 14738,
+    "std": 57.62755291472214
+  },
+  {
+    "filename": "05_final_desktop_search_modal.png",
+    "width": 1440,
+    "height": 900,
+    "size_kb": 186.0,
+    "unique_colors": 14738,
+    "std": 57.62755291472214
+  },
+  {
+    "filename": "06_final_mobile_hero_390.png",
+    "width": 390,
+    "height": 844,
+    "size_kb": 65.9,
+    "unique_colors": 5739,
+    "std": 83.51977277313874
+  },
+  {
+    "filename": "07_final_mobile_craftsmanship_390.png",
+    "width": 390,
+    "height": 950,
+    "size_kb": 92.5,
+    "unique_colors": 19285,
+    "std": 44.17731379064514
+  },
+  {
+    "filename": "08_final_mobile_catalogue_390.png",
+    "width": 390,
+    "height": 1100,
+    "size_kb": 160.6,
+    "unique_colors": 46437,
+    "std": 58.83387843323849
+  }
+]

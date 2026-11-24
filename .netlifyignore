@@ -1,0 +1,12 @@
+# Netlify Deployment Ignore
+processed-jewellery-v2.zip
+assets/raw-jewellery/received_photos.zip
+processed-jewellery/
+processed-jewellery-v2/
+tests/
+scripts/
+reports/
+*.log
+.git/
+.env*
+!index.html

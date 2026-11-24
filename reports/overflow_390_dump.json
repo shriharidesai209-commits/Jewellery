@@ -1,0 +1,20 @@
+{
+  "windowInnerWidth": 504,
+  "docScrollWidth": 504,
+  "bodyScrollWidth": 390,
+  "overflowingElements": [
+    {
+      "tag": "HTML",
+      "id": "",
+      "className": "",
+      "right": 390,
+      "width": 390,
+      "scrollWidth": 504,
+      "styleWidth": "390px",
+      "styleMinWidth": "0px",
+      "stylePadding": "0px",
+      "styleMargin": "0px",
+      "parent": ""
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "all_passed": true,
+  "deliverables": [
+    {
+      "file": "01_final_desktop_hero.png",
+      "desc": "Desktop Hero (Featured 16:9 Haar)",
+      "width": 1440,
+      "height": 960,
+      "expected_w": 1440,
+      "width_ok": true,
+      "full_unique_colors": 14738,
+      "full_std": 55.76922550218436,
+      "roi_unique_colors": 10719,
+      "roi_std": 46.51969008413198,
+      "status": "PASS"
+    },
+    {
+      "file": "02_final_desktop_craftsmanship.png",
+      "desc": "Desktop Craftsmanship (Macro Details)",
+      "width": 1440,
+      "height": 850,
+      "expected_w": 1440,
+      "width_ok": true,
+      "full_unique_colors": 138234,
+      "full_std": 68.56523721256363,
+      "roi_unique_colors": 58584,
+      "roi_std": 47.71164536804307,
+      "status": "PASS"
+    },
+    {
+      "file": "03_final_desktop_catalogue.png",
+      "desc": "Desktop Catalogue (5 Authenticated Cards)",
+      "width": 1440,
+      "height": 1150,
+      "expected_w": 1440,
+      "width_ok": true,
+      "full_unique_colors": 96097,
+      "full_std": 45.22349494108397,
+      "roi_unique_colors": 83961,
+      "roi_std": 60.38461125600574,
+      "status": "PASS"
+    },
+    {
+      "file": "04_final_desktop_product_modal.png",
+      "desc": "Product Inspection Modal (4:5 Portrait Gallery)",
+      "width": 1440,
+      "height": 900,
+      "expected_w": 1440,
+      "width_ok": true,
+      "full_unique_colors": 39693,
+      "full_std": 89.91343386978598,
+      "roi_unique_colors": 36264,
+      "roi_std": 53.553332755744684,
+      "status": "PASS"
+    },
+    {
+      "file": "05_final_desktop_search_modal.png",
+      "desc": "Live Search Modal (Search Thumbnails)",
+      "width": 1440,
+      "height": 900,
+      "expected_w": 1440,
+      "width_ok": true,
+      "full_unique_colors": 3464,
+      "full_std": 88.13213830021515,
+      "roi_unique_colors": 1677,
+      "roi_std": 26.281772127853454,
+      "status": "PASS"
+    },
+    {
+      "file": "06_final_mobile_hero_390.png",
+      "desc": "Mobile Hero (390px Viewport)",
+      "width": 390,
+      "height": 844,
+      "expected_w": 390,
+      "width_ok": true,
+      "full_unique_colors": 5739,
+      "full_std": 83.51977277313874,
+      "roi_unique_colors": 1631,
+      "roi_std": 58.25083479090335,
+      "status": "PASS"
+    },
+    {
+      "file": "07_final_mobile_craftsmanship_390.png",
+      "desc": "Mobile Craftsmanship (390px Viewport)",
+      "width": 390,
+      "height": 950,
+      "expected_w": 390,
+      "width_ok": true,
+      "full_unique_colors": 19285,
+      "full_std": 44.17731379064514,
+      "roi_unique_colors": 1368,
+      "roi_std": 52.104070825320996,
+      "status": "PASS"
+    },
+    {
+      "file": "08_final_mobile_catalogue_390.png",
+      "desc": "Mobile Catalogue (390px Viewport)",
+      "width": 390,
+      "height": 1100,
+      "expected_w": 390,
+      "width_ok": true,
+      "full_unique_colors": 46437,
+      "full_std": 58.83387843323849,
+      "roi_unique_colors": 44271,
+      "roi_std": 78.76120485442947,
+      "status": "PASS"
+    }
+  ]
+}

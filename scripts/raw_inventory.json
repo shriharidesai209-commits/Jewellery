@@ -1,0 +1,819 @@
+[
+  {
+    "rel_path": "01_Earrings_Set_1_0423/IMG_0423.JPG.jpeg",
+    "filename": "IMG_0423.JPG.jpeg",
+    "folder": "01_Earrings_Set_1_0423",
+    "format": "JPEG",
+    "width": 3840,
+    "height": 2160,
+    "orientation": 6,
+    "size_bytes": 1885229,
+    "laplacian_variance": 106.07,
+    "mean_brightness": 86.74,
+    "std_contrast": 50.79,
+    "rgb_means": [
+      163.7,
+      54.7,
+      49.7
+    ],
+    "dhash": "fec0014b8e1e1304"
+  },
+  {
+    "rel_path": "01_Earrings_Set_1_0423/IMG_0428.JPG.jpeg",
+    "filename": "IMG_0428.JPG.jpeg",
+    "folder": "01_Earrings_Set_1_0423",
+    "format": "JPEG",
+    "width": 3840,
+    "height": 2160,
+    "orientation": 6,
+    "size_bytes": 1819796,
+    "laplacian_variance": 90.61,
+    "mean_brightness": 92.47,
+    "std_contrast": 58.08,
+    "rgb_means": [
+      156.0,
+      67.1,
+      56.8
+    ],
+    "dhash": "97d9263416805241"
+  },
+  {
+    "rel_path": "01_Earrings_Set_1_0423/IMG_0429.JPG.jpeg",
+    "filename": "IMG_0429.JPG.jpeg",
+    "folder": "01_Earrings_Set_1_0423",
+    "format": "JPEG",
+    "width": 3840,
+    "height": 2160,
+    "orientation": 6,
+    "size_bytes": 1791754,
+    "laplacian_variance": 85.07,
+    "mean_brightness": 97.12,
+    "std_contrast": 58.39,
+    "rgb_means": [
+      155.4,
+      73.3,
+      67.0
+    ],
+    "dhash": "916d6d3505804659"
+  },
+  {
+    "rel_path": "01_Earrings_Set_1_0423/IMG_0431.JPG.jpeg",
+    "filename": "IMG_0431.JPG.jpeg",
+    "folder": "01_Earrings_Set_1_0423",
+    "format": "JPEG",
+    "width": 3840,
+    "height": 2160,
+    "orientation": 6,
+    "size_bytes": 1899003,
+    "laplacian_variance": 107.8,
+    "mean_brightness": 94.06,
+    "std_contrast": 61.49,
+    "rgb_means": [
+      144.4,
+      73.4,
+      68.6
+    ],
+    "dhash": "976b36978d4249c1"
+  },
+  {
+    "rel_path": "02_Earrings_Set_2_0437/IMG_0437.JPG.jpeg",
+    "filename": "IMG_0437.JPG.jpeg",
+    "folder": "02_Earrings_Set_2_0437",
+    "format": "JPEG",
+    "width": 3840,
+    "height": 2160,
+    "orientation": 6,
+    "size_bytes": 1905272,
+    "laplacian_variance": 75.56,
+    "mean_brightness": 99.97,
+    "std_contrast": 50.4,
+    "rgb_means": [
+      172.3,
+      70.7,
+      61.1
+    ],
+    "dhash": "38de273789989fe7"
+  },
+  {
+    "rel_path": "02_Earrings_Set_2_0437/IMG_0438.JPG.jpeg",
+    "filename": "IMG_0438.JPG.jpeg",
+    "folder": "02_Earrings_Set_2_0437",
+    "format": "JPEG",
+    "width": 3840,
+    "height": 2160,
+    "orientation": 6,
+    "size_bytes": 2270662,
+    "laplacian_variance": 140.95,
+    "mean_brightness": 93.45,
+    "std_contrast": 44.29,
+    "rgb_means": [
+      183.2,
+      57.1,
+      45.4
+    ],
+    "dhash": "3139580d4742202f"
+  },
+  {
+    "rel_path": "02_Earrings_Set_2_0437/IMG_0439.JPG.jpeg",
+    "filename": "IMG_0439.JPG.jpeg",
+    "folder": "02_Earrings_Set_2_0437",
+    "format": "JPEG",
+    "width": 3840,
+    "height": 2160,
+    "orientation": 6,
+    "size_bytes": 1914731,
+    "laplacian_variance": 114.25,
+    "mean_brightness": 90.44,
+    "std_contrast": 47.6,
+    "rgb_means": [
+      173.3,
+      57.2,
+      44.5
+    ],
+    "dhash": "bf4ec69e0f4c60bf"
+  },
+  {
+    "rel_path": "02_Earrings_Set_2_0437/IMG_0440.JPG.jpeg",
+    "filename": "IMG_0440.JPG.jpeg",
+    "folder": "02_Earrings_Set_2_0437",
+    "format": "JPEG",
+    "width": 3840,
+    "height": 2160,
+    "orientation": 6,
+    "size_bytes": 1998559,
+    "laplacian_variance": 134.66,
+    "mean_brightness": 90.74,
+    "std_contrast": 40.61,
+    "rgb_means": [
+      181.7,
+      53.2,
+      45.8
+    ],
+    "dhash": "3e38cd9d8dc0bf3f"
+  },
+  {
+    "rel_path": "02_Earrings_Set_2_0437/IMG_0441.JPG.jpeg",
+    "filename": "IMG_0441.JPG.jpeg",
+    "folder": "02_Earrings_Set_2_0437",
+    "format": "JPEG",
+    "width": 3840,
+    "height": 2160,
+    "orientation": 6,
+    "size_bytes": 1980671,
+    "laplacian_variance": 131.37,
+    "mean_brightness": 90.78,
+    "std_contrast": 41.04,
+    "rgb_means": [
+      183.4,
+      52.7,
+      44.1
+    ],
+    "dhash": "1bde068f83665f7c"
+  },
+  {
+    "rel_path": "02_Earrings_Set_2_0437/IMG_0442.JPG.jpeg",
+    "filename": "IMG_0442.JPG.jpeg",
+    "folder": "02_Earrings_Set_2_0437",
+    "format": "JPEG",
+    "width": 3840,
+    "height": 2160,
+    "orientation": 6,
+    "size_bytes": 1976227,
+    "laplacian_variance": 131.41,
+    "mean_brightness": 91.07,
+    "std_contrast": 44.05,
+    "rgb_means": [
+      184.7,
+      53.0,
+      41.8
+    ],
+    "dhash": "1d0e56058d04e2fc"
+  },
+  {
+    "rel_path": "03_Necklace_IMG_0062/IMG_0062.JPG.jpeg",
+    "filename": "IMG_0062.JPG.jpeg",
+    "folder": "03_Necklace_IMG_0062",
+    "format": "JPEG",
+    "width": 960,
+    "height": 1280,
+    "orientation": 1,
+    "size_bytes": 218460,
+    "laplacian_variance": 1149.44,
+    "mean_brightness": 49.29,
+    "std_contrast": 37.29,
+    "rgb_means": [
+      120.4,
+      18.4,
+      21.8
+    ],
+    "dhash": "29680f3369492b06"
+  },
+  {
+    "rel_path": "04_Long_Necklace_IMG_0143/IMG_0143.PNG",
+    "filename": "IMG_0143.PNG",
+    "folder": "04_Long_Necklace_IMG_0143",
+    "format": "JPEG",
+    "width": 1078,
+    "height": 1441,
+    "orientation": 1,
+    "size_bytes": 406993,
+    "laplacian_variance": 923.49,
+    "mean_brightness": 86.04,
+    "std_contrast": 39.42,
+    "rgb_means": [
+      167.2,
+      52.5,
+      45.9
+    ],
+    "dhash": "4e9692b333333b2b"
+  },
+  {
+    "rel_path": "05_Ornate_Jewellery_Closeups_0300/IMG_0300.HEIC",
+    "filename": "IMG_0300.HEIC",
+    "folder": "05_Ornate_Jewellery_Closeups_0300",
+    "format": "HEIF",
+    "width": 2236,
+    "height": 3731,
+    "orientation": 1,
+    "size_bytes": 1826881,
+    "laplacian_variance": 541.04,
+    "mean_brightness": 90.62,
+    "std_contrast": 83.29,
+    "rgb_means": [
+      103.0,
+      88.2,
+      70.5
+    ],
+    "dhash": "72b3c4d1d5d4f5d5"
+  },
+  {
+    "rel_path": "05_Ornate_Jewellery_Closeups_0300/IMG_0301.HEIC",
+    "filename": "IMG_0301.HEIC",
+    "folder": "05_Ornate_Jewellery_Closeups_0300",
+    "format": "HEIF",
+    "width": 2239,
+    "height": 4031,
+    "orientation": 1,
+    "size_bytes": 1744845,
+    "laplacian_variance": 267.15,
+    "mean_brightness": 76.05,
+    "std_contrast": 74.4,
+    "rgb_means": [
+      85.2,
+      74.3,
+      61.1
+    ],
+    "dhash": "2e26c43333556751"
+  },
+  {
+    "rel_path": "05_Ornate_Jewellery_Closeups_0300/IMG_0302.HEIC",
+    "filename": "IMG_0302.HEIC",
+    "folder": "05_Ornate_Jewellery_Closeups_0300",
+    "format": "HEIF",
+    "width": 2777,
+    "height": 3703,
+    "orientation": 1,
+    "size_bytes": 2010295,
+    "laplacian_variance": 401.23,
+    "mean_brightness": 70.38,
+    "std_contrast": 76.43,
+    "rgb_means": [
+      78.5,
+      68.8,
+      57.3
+    ],
+    "dhash": "999967d9d969c9ad"
+  },
+  {
+    "rel_path": "05_Ornate_Jewellery_Closeups_0300/IMG_0303.HEIC",
+    "filename": "IMG_0303.HEIC",
+    "folder": "05_Ornate_Jewellery_Closeups_0300",
+    "format": "HEIF",
+    "width": 2599,
+    "height": 3465,
+    "orientation": 1,
+    "size_bytes": 1876205,
+    "laplacian_variance": 419.9,
+    "mean_brightness": 80.41,
+    "std_contrast": 79.67,
+    "rgb_means": [
+      93.6,
+      77.6,
+      60.4
+    ],
+    "dhash": "96c3ec9292a4d9e9"
+  },
+  {
+    "rel_path": "06_Chain_or_Jewellery_on_Grey_0344/IMG_0344.HEIC",
+    "filename": "IMG_0344.HEIC",
+    "folder": "06_Chain_or_Jewellery_on_Grey_0344",
+    "format": "HEIF",
+    "width": 4284,
+    "height": 5712,
+    "orientation": 1,
+    "size_bytes": 3284771,
+    "laplacian_variance": 91.21,
+    "mean_brightness": 105.11,
+    "std_contrast": 72.7,
+    "rgb_means": [
+      160.9,
+      83.4,
+      70.4
+    ],
+    "dhash": "969616160606064e"
+  },
+  {
+    "rel_path": "06_Chain_or_Jewellery_on_Grey_0344/IMG_0345.HEIC",
+    "filename": "IMG_0345.HEIC",
+    "folder": "06_Chain_or_Jewellery_on_Grey_0344",
+    "format": "HEIF",
+    "width": 4284,
+    "height": 5712,
+    "orientation": 1,
+    "size_bytes": 3177222,
+    "laplacian_variance": 112.45,
+    "mean_brightness": 112.98,
+    "std_contrast": 75.95,
+    "rgb_means": [
+      167.5,
+      91.6,
+      80.0
+    ],
+    "dhash": "0e1e9e9696969696"
+  },
+  {
+    "rel_path": "06_Chain_or_Jewellery_on_Grey_0344/IMG_0350.HEIC",
+    "filename": "IMG_0350.HEIC",
+    "folder": "06_Chain_or_Jewellery_on_Grey_0344",
+    "format": "HEIF",
+    "width": 4284,
+    "height": 5712,
+    "orientation": 1,
+    "size_bytes": 3702954,
+    "laplacian_variance": 157.67,
+    "mean_brightness": 119.07,
+    "std_contrast": 77.51,
+    "rgb_means": [
+      180.0,
+      95.1,
+      83.1
+    ],
+    "dhash": "4e4a4a4b4b474743"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0034.HEIC",
+    "filename": "IMG_0034.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 1748061,
+    "laplacian_variance": 114.16,
+    "mean_brightness": 95.57,
+    "std_contrast": 39.31,
+    "rgb_means": [
+      174.7,
+      62.0,
+      60.9
+    ],
+    "dhash": "4bcd177155cd0f5b"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0035.HEIC",
+    "filename": "IMG_0035.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 2565,
+    "height": 3847,
+    "orientation": 1,
+    "size_bytes": 1649622,
+    "laplacian_variance": 128.92,
+    "mean_brightness": 99.46,
+    "std_contrast": 42.58,
+    "rgb_means": [
+      176.6,
+      67.7,
+      60.5
+    ],
+    "dhash": "ab4c0e6bcc8adc5b"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0037.HEIC",
+    "filename": "IMG_0037.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 2065428,
+    "laplacian_variance": 182.58,
+    "mean_brightness": 97.83,
+    "std_contrast": 40.35,
+    "rgb_means": [
+      177.3,
+      64.7,
+      59.6
+    ],
+    "dhash": "eccc97334dcc5d0b"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0038.HEIC",
+    "filename": "IMG_0038.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 2147148,
+    "laplacian_variance": 206.64,
+    "mean_brightness": 108.01,
+    "std_contrast": 37.15,
+    "rgb_means": [
+      199.5,
+      69.5,
+      66.1
+    ],
+    "dhash": "62cd8e334d4d5b9a"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0039.HEIC",
+    "filename": "IMG_0039.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 1683262,
+    "laplacian_variance": 100.71,
+    "mean_brightness": 91.2,
+    "std_contrast": 41.95,
+    "rgb_means": [
+      170.2,
+      58.2,
+      53.8
+    ],
+    "dhash": "bb4d0e735dd55524"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0040.HEIC",
+    "filename": "IMG_0040.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 2207178,
+    "laplacian_variance": 238.0,
+    "mean_brightness": 99.23,
+    "std_contrast": 36.82,
+    "rgb_means": [
+      183.1,
+      64.4,
+      58.4
+    ],
+    "dhash": "696d873345d40001"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0041.HEIC",
+    "filename": "IMG_0041.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 2194873,
+    "laplacian_variance": 240.03,
+    "mean_brightness": 96.92,
+    "std_contrast": 39.28,
+    "rgb_means": [
+      178.6,
+      62.7,
+      58.7
+    ],
+    "dhash": "4a4d8e3344545493"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0042.HEIC",
+    "filename": "IMG_0042.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 2016101,
+    "laplacian_variance": 177.49,
+    "mean_brightness": 99.8,
+    "std_contrast": 41.99,
+    "rgb_means": [
+      176.4,
+      68.2,
+      61.5
+    ],
+    "dhash": "6a4c8f714c4e4d2d"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0043.HEIC",
+    "filename": "IMG_0043.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 1881850,
+    "laplacian_variance": 137.81,
+    "mean_brightness": 96.56,
+    "std_contrast": 40.52,
+    "rgb_means": [
+      174.1,
+      64.3,
+      59.2
+    ],
+    "dhash": "ec4d0f3345442433"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0044.HEIC",
+    "filename": "IMG_0044.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 1198561,
+    "laplacian_variance": 22.98,
+    "mean_brightness": 93.01,
+    "std_contrast": 39.66,
+    "rgb_means": [
+      174.4,
+      58.5,
+      57.1
+    ],
+    "dhash": "6d4c8f314450d084"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0235.HEIC",
+    "filename": "IMG_0235.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 2268,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 1441831,
+    "laplacian_variance": 423.06,
+    "mean_brightness": 68.61,
+    "std_contrast": 33.74,
+    "rgb_means": [
+      153.8,
+      34.1,
+      22.8
+    ],
+    "dhash": "a8788c176155bbba"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0351.HEIC",
+    "filename": "IMG_0351.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 1402789,
+    "laplacian_variance": 231.78,
+    "mean_brightness": 136.66,
+    "std_contrast": 80.93,
+    "rgb_means": [
+      171.5,
+      123.6,
+      112.4
+    ],
+    "dhash": "2d31310d172d3f3f"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0352.HEIC",
+    "filename": "IMG_0352.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 1341042,
+    "laplacian_variance": 255.48,
+    "mean_brightness": 151.74,
+    "std_contrast": 76.71,
+    "rgb_means": [
+      178.8,
+      142.3,
+      129.9
+    ],
+    "dhash": "0915316d554d7dfe"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0353.HEIC",
+    "filename": "IMG_0353.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 1260983,
+    "laplacian_variance": 208.56,
+    "mean_brightness": 160.04,
+    "std_contrast": 66.44,
+    "rgb_means": [
+      181.5,
+      153.0,
+      140.1
+    ],
+    "dhash": "6d51714c560f3f3f"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0354.HEIC",
+    "filename": "IMG_0354.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 1335949,
+    "laplacian_variance": 225.69,
+    "mean_brightness": 147.3,
+    "std_contrast": 79.7,
+    "rgb_means": [
+      179.9,
+      135.5,
+      122.9
+    ],
+    "dhash": "2d31210c162723d9"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0355.HEIC",
+    "filename": "IMG_0355.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 1555566,
+    "laplacian_variance": 203.51,
+    "mean_brightness": 126.2,
+    "std_contrast": 82.38,
+    "rgb_means": [
+      170.6,
+      109.6,
+      95.4
+    ],
+    "dhash": "0111310d15951fee"
+  },
+  {
+    "rel_path": "07_Fabric_Background_Reference/IMG_0360.HEIC",
+    "filename": "IMG_0360.HEIC",
+    "folder": "07_Fabric_Background_Reference",
+    "format": "HEIF",
+    "width": 3023,
+    "height": 2641,
+    "orientation": 1,
+    "size_bytes": 2137124,
+    "laplacian_variance": 506.55,
+    "mean_brightness": 87.31,
+    "std_contrast": 43.76,
+    "rgb_means": [
+      175.5,
+      53.3,
+      31.4
+    ],
+    "dhash": "9042528a296e0a01"
+  },
+  {
+    "rel_path": "08_Dark_or_Unclear_Review/IMG_0231.HEIC",
+    "filename": "IMG_0231.HEIC",
+    "folder": "08_Dark_or_Unclear_Review",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 2231913,
+    "laplacian_variance": 118.1,
+    "mean_brightness": 86.55,
+    "std_contrast": 42.63,
+    "rgb_means": [
+      160.5,
+      57.8,
+      40.5
+    ],
+    "dhash": "e8adc6bb2d585a35"
+  },
+  {
+    "rel_path": "08_Dark_or_Unclear_Review/IMG_0299.HEIC",
+    "filename": "IMG_0299.HEIC",
+    "folder": "08_Dark_or_Unclear_Review",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 2423055,
+    "laplacian_variance": 425.51,
+    "mean_brightness": 82.8,
+    "std_contrast": 79.5,
+    "rgb_means": [
+      91.0,
+      81.5,
+      68.1
+    ],
+    "dhash": "64645b6c4c596654"
+  },
+  {
+    "rel_path": "08_Dark_or_Unclear_Review/IMG_0329.HEIC",
+    "filename": "IMG_0329.HEIC",
+    "folder": "08_Dark_or_Unclear_Review",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 749623,
+    "laplacian_variance": 8.97,
+    "mean_brightness": 130.44,
+    "std_contrast": 39.19,
+    "rgb_means": [
+      151.9,
+      126.6,
+      93.6
+    ],
+    "dhash": "60dca8e0b3a1e0c1"
+  },
+  {
+    "rel_path": "08_Dark_or_Unclear_Review/IMG_0444.HEIC",
+    "filename": "IMG_0444.HEIC",
+    "folder": "08_Dark_or_Unclear_Review",
+    "format": "HEIF",
+    "width": 5712,
+    "height": 4284,
+    "orientation": 1,
+    "size_bytes": 2484798,
+    "laplacian_variance": 95.05,
+    "mean_brightness": 116.33,
+    "std_contrast": 62.64,
+    "rgb_means": [
+      129.7,
+      112.3,
+      102.0
+    ],
+    "dhash": "90bcececbe88a8c6"
+  },
+  {
+    "rel_path": "08_Dark_or_Unclear_Review/IMG_0588.HEIC",
+    "filename": "IMG_0588.HEIC",
+    "folder": "08_Dark_or_Unclear_Review",
+    "format": "HEIF",
+    "width": 4284,
+    "height": 5712,
+    "orientation": 1,
+    "size_bytes": 4982647,
+    "laplacian_variance": 199.69,
+    "mean_brightness": 76.01,
+    "std_contrast": 34.25,
+    "rgb_means": [
+      142.0,
+      50.6,
+      33.5
+    ],
+    "dhash": "0d17521292babbbb"
+  },
+  {
+    "rel_path": "08_Dark_or_Unclear_Review/IMG_0828.HEIC",
+    "filename": "IMG_0828.HEIC",
+    "folder": "08_Dark_or_Unclear_Review",
+    "format": "HEIF",
+    "width": 3024,
+    "height": 4032,
+    "orientation": 1,
+    "size_bytes": 1815446,
+    "laplacian_variance": 29.01,
+    "mean_brightness": 70.67,
+    "std_contrast": 29.41,
+    "rgb_means": [
+      144.3,
+      40.4,
+      33.4
+    ],
+    "dhash": "ad39cc4c4da9266a"
+  },
+  {
+    "rel_path": "09_Fastening_or_Extra_View/IMG_0839.JPG.jpeg",
+    "filename": "IMG_0839.JPG.jpeg",
+    "folder": "09_Fastening_or_Extra_View",
+    "format": "JPEG",
+    "width": 3840,
+    "height": 2160,
+    "orientation": 6,
+    "size_bytes": 1599348,
+    "laplacian_variance": 54.63,
+    "mean_brightness": 76.28,
+    "std_contrast": 39.42,
+    "rgb_means": [
+      156.7,
+      43.1,
+      36.5
+    ],
+    "dhash": "c70713132d4c0c31"
+  }
+]
